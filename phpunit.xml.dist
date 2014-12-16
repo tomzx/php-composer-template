@@ -1,11 +1,11 @@
-<phpunit bootstrap="../vendor/autoload.php">
+<phpunit bootstrap="vendor/autoload.php">
 	<testsuite name="Tests">
-		<directory>.</directory>
+		<directory>./tests</directory>
 	</testsuite>
 
 	<filter>
 		<whitelist>
-			<directory suffix=".php">../src</directory>
+			<directory suffix=".php">./src</directory>
 		</whitelist>
 	</filter>
 
