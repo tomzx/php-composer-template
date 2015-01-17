@@ -1,5 +1,4 @@
-PHP Composer Template
-=========
+# PHP Composer Template
 
 [![Build Status](https://travis-ci.org/tomzx/%project-name%.svg)](https://travis-ci.org/tomzx/%project-name%)
 [![Total Downloads](https://poser.pugx.org/tomzx/%project-name%/downloads.svg)](https://packagist.org/packages/tomzx/%project-name%)
@@ -10,7 +9,6 @@ PHP Composer Template
 This is a simple template that can be reused to bootstrap a php/composer project.
 
 
-License
--------
+## License
 
-The code is licensed under the [MIT license](http://choosealicense.com/licenses/mit/). See license.txt.
+The code is licensed under the [MIT license](http://choosealicense.com/licenses/mit/). See LICENSE.
