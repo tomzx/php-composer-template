@@ -28,6 +28,11 @@
 			"MyNamespace\\": "src/MyNamespace"
 		}
 	},
+	"autoload-dev": {
+		"psr-4": {
+			"MyNamespace\\Test\\": "tests/MyNamespace"
+		}
+	},
 	"extra": {
 		"branch-alias": {
 			"dev-master": "0.1-dev"
