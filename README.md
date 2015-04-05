@@ -10,7 +10,6 @@
 
 This is a simple template that can be reused to bootstrap a php/composer project.
 
-
 ## License
 
-The code is licensed under the [MIT license](http://choosealicense.com/licenses/mit/). See LICENSE.
+The code is licensed under the [MIT license](http://choosealicense.com/licenses/mit/). See [LICENSE](LICENSE).
