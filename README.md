@@ -1,5 +1,4 @@
 # PHP Composer Template
-
 [![License](https://poser.pugx.org/tomzx/%project-name%/license.svg)](https://packagist.org/packages/tomzx/%project-name%)
 [![Latest Stable Version](https://poser.pugx.org/tomzx/%project-name%/v/stable.svg)](https://packagist.org/packages/tomzx/%project-name%)
 [![Latest Unstable Version](https://poser.pugx.org/tomzx/%project-name%/v/unstable.svg)](https://packagist.org/packages/tomzx/%project-name%)
@@ -14,5 +13,4 @@ This is a simple template that can be reused to bootstrap a php/composer project
 `php composer.phar require tomzx/%project-name%`
 
 ## License
-
 The code is licensed under the [MIT license](http://choosealicense.com/licenses/mit/). See [LICENSE](LICENSE).
