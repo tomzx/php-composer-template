@@ -30,7 +30,7 @@
 	},
 	"autoload-dev": {
 		"psr-4": {
-			"MyNamespace\\Test\\": "tests/MyNamespace"
+			"MyNamespace\\Tests\\": "tests/MyNamespace"
 		}
 	},
 	"extra": {
